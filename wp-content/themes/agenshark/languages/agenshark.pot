@@ -1,0 +1,1047 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Agenshark\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 05:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.10; wp-6.5.3\n"
+"X-Domain: agenshark"
+
+#: comments.php:26
+msgid " Comment "
+msgstr ""
+
+#: comments.php:26
+msgid " Comments"
+msgstr ""
+
+#: inc/template-helper.php:162 inc/template-helper.php:163
+#: inc/template-helper.php:164 inc/template-helper.php:165
+#: inc/template-helper.php:194 inc/template-helper.php:195
+#: inc/template-helper.php:196 inc/template-helper.php:220
+#: inc/template-helper.php:221 inc/template-helper.php:222
+#: inc/template-helper.php:223 inc/template-helper.php:224
+#: inc/kirki-customizer.php:298 inc/kirki-customizer.php:384
+#: inc/kirki-customizer.php:414 inc/kirki-customizer.php:423
+#: inc/kirki-customizer.php:432 inc/kirki-customizer.php:441
+#: inc/kirki-customizer.php:451 inc/kirki-customizer.php:460
+#: inc/kirki-customizer.php:469 template-parts/header/header-2.php:24
+msgid "#"
+msgstr ""
+
+#: template-parts/footer/footer-2.php:17 template-parts/footer/footer-3.php:17
+msgid "#0E1E2A"
+msgstr ""
+
+#: template-parts/footer/footer-1.php:17
+msgid "#101b17"
+msgstr ""
+
+#: inc/common/agenshark-breadcrumb.php:23
+msgid "#215846"
+msgstr ""
+
+#: comments.php:53
+msgid "&larr; Older "
+msgstr ""
+
+#: inc/kirki-customizer.php:238 inc/kirki-customizer.php:358
+#: template-parts/header/header-1.php:18 template-parts/header/header-5.php:18
+#: template-parts/header/header-2.php:18 template-parts/header/header-4.php:18
+#: template-parts/header/header-3.php:18
+msgid "(629) 555-0129"
+msgstr ""
+
+#: inc/kirki-customizer.php:338 template-parts/header/header-1.php:20
+#: template-parts/header/header-5.php:20 template-parts/header/header-2.php:20
+#: template-parts/header/header-4.php:20 template-parts/header/header-3.php:20
+msgid "(808) 555-0111"
+msgstr ""
+
+#: inc/kirki-customizer.php:591 template-parts/header/header-side-info.php:16
+msgid "+92 666 888 0000"
+msgstr ""
+
+#: inc/kirki-customizer.php:278
+msgid "2972 Westheimer Rd. Santa Ana"
+msgstr ""
+
+#: inc/kirki-customizer.php:867
+msgid "404 Description Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:852 inc/kirki-customizer.php:853
+msgid "404 Image."
+msgstr ""
+
+#: inc/kirki-customizer.php:875
+msgid "404 Link Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:102
+msgid "404 Page"
+msgstr ""
+
+#: inc/kirki-customizer.php:258 template-parts/header/header-1.php:14
+#: template-parts/header/header-5.php:14 template-parts/header/header-2.php:14
+#: template-parts/header/header-4.php:14 template-parts/header/header-3.php:14
+msgid "6391 Elgin St. Celina, 10299"
+msgstr ""
+
+#: inc/kirki-customizer.php:582 template-parts/header/header-side-info.php:15
+msgid "86 Road Broklyn Street, 600"
+msgstr ""
+
+#: inc/kirki-customizer.php:318
+msgid "9 am - 8 pm"
+msgstr ""
+
+#: inc/kirki-customizer.php:256
+msgid "Address"
+msgstr ""
+
+#: inc/kirki-customizer.php:266
+msgid "Address URL"
+msgstr ""
+
+#: inc/add_plugin.php:39
+msgid "Advanced Custom Fields Pro"
+msgstr ""
+
+#. Name of the theme
+msgid "Agenshark"
+msgstr ""
+
+#. Description of the theme
+msgid "Agenshark - Startup Agency Elementor WordPress Theme"
+msgstr ""
+
+#: inc/kirki-customizer.php:23
+msgid "Agenshark Customizer"
+msgstr ""
+
+#: inc/add_plugin.php:152
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/kirki-customizer.php:907
+msgid "ASC"
+msgstr ""
+
+#: 404.php:21 inc/kirki-customizer.php:877
+msgid "Back To Home"
+msgstr ""
+
+#: inc/kirki-customizer.php:183
+msgid "Back To Top On/Off"
+msgstr ""
+
+#: inc/template-helper.php:93
+msgid "Bangla"
+msgstr ""
+
+#: inc/add_plugin.php:142
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:132
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:137
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/kirki-customizer.php:733 inc/common/agenshark-breadcrumb.php:26
+#: inc/common/agenshark-breadcrumb.php:29
+msgid "Blog"
+msgstr ""
+
+#: inc/kirki-customizer.php:685
+msgid "Blog Author Meta On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:659
+msgid "Blog BTN On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:722
+msgid "Blog Button text"
+msgstr ""
+
+#: inc/kirki-customizer.php:672
+msgid "Blog Category Meta On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:709
+msgid "Blog Comments Meta On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:697
+msgid "Blog Date Meta On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:742
+msgid "Blog Details"
+msgstr ""
+
+#: inc/kirki-customizer.php:740
+msgid "Blog Details Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:54 inc/kirki-customizer.php:78
+msgid "Blog Setting"
+msgstr ""
+
+#: inc/common/agenshark-widgets.php:18
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/kirki-customizer.php:731
+msgid "Blog Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:1030
+msgid "Body Font"
+msgstr ""
+
+#: inc/kirki-customizer.php:617 inc/kirki-customizer.php:618
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: inc/kirki-customizer.php:626
+msgid "Breadcrumb BG Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:636
+msgid "Breadcrumb Info switch"
+msgstr ""
+
+#: inc/add_plugin.php:66
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: inc/kirki-customizer.php:70
+msgid "Breadcrumb Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:366
+msgid "Button Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:382
+msgid "Button URL"
+msgstr ""
+
+#: comments.php:117
+msgid "Cancel Reply"
+msgstr ""
+
+#: functions.php:50
+msgid "Category Menu"
+msgstr ""
+
+#: inc/kirki-customizer.php:758
+msgid "Choose Footer Style"
+msgstr ""
+
+#: inc/kirki-customizer.php:94
+msgid "Color Setting"
+msgstr ""
+
+#: comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/kirki-customizer.php:571 inc/kirki-customizer.php:573
+#: template-parts/header/header-2.php:23
+#: template-parts/header/header-side-info.php:14
+msgid "Contact"
+msgstr ""
+
+#: inc/add_plugin.php:51
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/kirki-customizer.php:836
+msgid "Copy Right"
+msgstr ""
+
+#: inc/common/agenshark-breadcrumb.php:40
+msgid "Course Details"
+msgstr ""
+
+#: inc/common/agenshark-breadcrumb.php:42
+msgid "Courses"
+msgstr ""
+
+#: inc/kirki-customizer.php:288
+msgid "Delaware 10299"
+msgstr ""
+
+#: inc/kirki-customizer.php:908
+msgid "DESC"
+msgstr ""
+
+#: inc/kirki-customizer.php:162 inc/kirki-customizer.php:175
+#: inc/kirki-customizer.php:189 inc/kirki-customizer.php:202
+#: inc/kirki-customizer.php:215 inc/kirki-customizer.php:228
+#: inc/kirki-customizer.php:545 inc/kirki-customizer.php:642
+#: inc/kirki-customizer.php:665 inc/kirki-customizer.php:678
+#: inc/kirki-customizer.php:691 inc/kirki-customizer.php:703
+#: inc/kirki-customizer.php:715 inc/kirki-customizer.php:815
+#: inc/kirki-customizer.php:828 inc/kirki-customizer.php:921
+#: inc/kirki-customizer.php:945 inc/kirki-customizer.php:958
+#: inc/kirki-customizer.php:971 inc/kirki-customizer.php:984
+#: inc/kirki-customizer.php:997 inc/kirki-customizer.php:1010
+msgid "Disable"
+msgstr ""
+
+#: inc/add_plugin.php:153
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/add_plugin.php:27
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/kirki-customizer.php:246
+msgid "Email Address"
+msgstr ""
+
+#: inc/kirki-customizer.php:598
+msgid "Email ID"
+msgstr ""
+
+#: inc/kirki-customizer.php:161 inc/kirki-customizer.php:174
+#: inc/kirki-customizer.php:188 inc/kirki-customizer.php:201
+#: inc/kirki-customizer.php:214 inc/kirki-customizer.php:227
+#: inc/kirki-customizer.php:544 inc/kirki-customizer.php:641
+#: inc/kirki-customizer.php:664 inc/kirki-customizer.php:677
+#: inc/kirki-customizer.php:690 inc/kirki-customizer.php:702
+#: inc/kirki-customizer.php:714 inc/kirki-customizer.php:814
+#: inc/kirki-customizer.php:827 inc/kirki-customizer.php:920
+#: inc/kirki-customizer.php:944 inc/kirki-customizer.php:957
+#: inc/kirki-customizer.php:970 inc/kirki-customizer.php:983
+#: inc/kirki-customizer.php:996 inc/kirki-customizer.php:1009
+msgid "Enable"
+msgstr ""
+
+#: inc/template-helper.php:60 inc/template-helper.php:92
+msgid "English"
+msgstr ""
+
+#: comments.php:82
+msgid "Enter Email"
+msgstr ""
+
+#: comments.php:81
+msgid "Enter Name"
+msgstr ""
+
+#: comments.php:83
+msgid "Enter Website"
+msgstr ""
+
+#: comments.php:96
+msgid "Enter Your Comments"
+msgstr ""
+
+#: inc/common/agenshark-breadcrumb.php:129
+msgid "Enter Your Keyword"
+msgstr ""
+
+#: 404.php:26
+msgid "Error 404"
+msgstr ""
+
+#: inc/kirki-customizer.php:1195
+msgid "Event Slug"
+msgstr ""
+
+#: inc/kirki-customizer.php:412
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:449
+msgid "Facebook URL ( Header - 2 )"
+msgstr ""
+
+#: inc/common/agenshark-widgets.php:33
+#, php-format
+msgid "Footer %1$s"
+msgstr ""
+
+#: inc/kirki-customizer.php:791 inc/kirki-customizer.php:792
+msgid "Footer Background Image."
+msgstr ""
+
+#: inc/kirki-customizer.php:799
+msgid "Footer BG Color"
+msgstr ""
+
+#: inc/common/agenshark-widgets.php:35
+#, php-format
+msgid "Footer column %1$s"
+msgstr ""
+
+#: functions.php:51
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/kirki-customizer.php:86
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/common/agenshark-widgets.php:48 inc/common/agenshark-widgets.php:50
+#, php-format
+msgid "Footer Style 2 : %1$s"
+msgstr ""
+
+#: inc/kirki-customizer.php:809
+msgid "Footer Style 2 On/Off"
+msgstr ""
+
+#: inc/common/agenshark-widgets.php:63 inc/common/agenshark-widgets.php:65
+#, php-format
+msgid "Footer Style 3 : %1$s"
+msgstr ""
+
+#: inc/kirki-customizer.php:822
+msgid "Footer Style 3 On/Off"
+msgstr ""
+
+#: inc/template-helper.php:94
+msgid "French"
+msgstr ""
+
+#: inc/kirki-customizer.php:368
+msgid "Get A Quote"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: inc/common/agenshark-scripts.php:77
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/kirki-customizer.php:30
+msgid "Header Info Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:502
+msgid "Header Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:512
+msgid "Header Logo Black"
+msgstr ""
+
+#: inc/kirki-customizer.php:196
+msgid "Header Right On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:209
+msgid "Header Search On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:511
+msgid "Header Secondary Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:46
+msgid "Header Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:38
+msgid "Header Social"
+msgstr ""
+
+#: inc/kirki-customizer.php:1052
+msgid "Heading h1 Fonts"
+msgstr ""
+
+#: inc/kirki-customizer.php:1074
+msgid "Heading h2 Fonts"
+msgstr ""
+
+#: inc/kirki-customizer.php:1096
+msgid "Heading h3 Fonts"
+msgstr ""
+
+#: inc/kirki-customizer.php:1118
+msgid "Heading h4 Fonts"
+msgstr ""
+
+#: inc/kirki-customizer.php:1140
+msgid "Heading h5 Fonts"
+msgstr ""
+
+#: inc/kirki-customizer.php:1162
+msgid "Heading h6 Fonts"
+msgstr ""
+
+#: inc/class-navwalker.php:366
+msgid "Home"
+msgstr ""
+
+#: inc/kirki-customizer.php:336
+msgid "Hotline Number"
+msgstr ""
+
+#: inc/kirki-customizer.php:356
+msgid "Hotline Number 2"
+msgstr ""
+
+#: inc/kirki-customizer.php:326
+msgid "Hotline Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:346
+msgid "Hotline Text 2"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wprealizer.com/wp/agenshark/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/wprealizer"
+msgstr ""
+
+#: inc/kirki-customizer.php:268 template-parts/header/header-1.php:15
+#: template-parts/header/header-5.php:15 template-parts/header/header-2.php:15
+#: template-parts/header/header-4.php:15 template-parts/header/header-3.php:15
+msgid ""
+"https://www.google.com/maps/search/6391+Elgin+St,+Wilmington,+DE,+USA/@39."
+"7298967,-75.5645038,13z/data=!3m1!4b1"
+msgstr ""
+
+#: inc/kirki-customizer.php:563 template-parts/header/header-side-info.php:13
+msgid ""
+"https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,"
+"+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1"
+msgstr ""
+
+#: inc/template-functions.php:80
+msgid "Image Alt Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:248 template-parts/header/header-1.php:13
+#: template-parts/header/header-5.php:13 template-parts/header/header-2.php:13
+#: template-parts/header/header-4.php:13 template-parts/header/header-3.php:13
+msgid "info@example.com"
+msgstr ""
+
+#: inc/kirki-customizer.php:458
+msgid "Instagram URL ( Header - 2 ) "
+msgstr ""
+
+#: inc/add_plugin.php:98
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/add_plugin.php:97
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/add_plugin.php:99
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/add_plugin.php:61
+msgid "Kirki Customizer Framework"
+msgstr ""
+
+#: inc/kirki-customizer.php:222
+msgid "language On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:118
+msgid "Learndash Course Settings "
+msgstr ""
+
+#: inc/kirki-customizer.php:891
+msgid "Learndash Post Per page"
+msgstr ""
+
+#: comments.php:115
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:116
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/kirki-customizer.php:430
+msgid "Linkedin URL"
+msgstr ""
+
+#: comments.php:110
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:110
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:105
+msgid "logged in"
+msgstr ""
+
+#: comments.php:110
+msgid "Logged in as"
+msgstr ""
+
+#: inc/template-helper.php:115 inc/template-helper.php:117
+#: inc/template-helper.php:130 inc/template-helper.php:147
+#: template-parts/header/header-side-info.php:36
+msgid "logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:552 inc/kirki-customizer.php:553
+msgid "Logo Side"
+msgstr ""
+
+#: functions.php:49
+msgid "Main Menu"
+msgstr ""
+
+#: inc/kirki-customizer.php:561
+msgid "Map URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:328 template-parts/header/header-1.php:19
+#: template-parts/header/header-5.php:19 template-parts/header/header-2.php:19
+#: template-parts/header/header-4.php:19 template-parts/header/header-3.php:19
+msgid "Need help?"
+msgstr ""
+
+#: inc/kirki-customizer.php:600 template-parts/header/header-side-info.php:17
+msgid "Needhelp@company.com"
+msgstr ""
+
+#: comments.php:56
+msgid "Newer &rarr;"
+msgstr ""
+
+#: single.php:50
+msgid "Next Post"
+msgstr ""
+
+#: inc/add_plugin.php:150
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/kirki-customizer.php:859
+msgid "Not Found Title"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/kirki-customizer.php:580
+msgid "Office Address"
+msgstr ""
+
+#: inc/kirki-customizer.php:306
+msgid "Office Day"
+msgstr ""
+
+#: inc/kirki-customizer.php:316
+msgid "Office Time"
+msgstr ""
+
+#: inc/add_plugin.php:56
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/kirki-customizer.php:869
+msgid ""
+"Oops! The page you are looking for does not exist. It might have been moved "
+"or deleted"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"Oops! The page you are looking for does not exist. It might have been moved "
+"or deleted."
+msgstr ""
+
+#: inc/kirki-customizer.php:1197
+msgid "ourevent"
+msgstr ""
+
+#: inc/kirki-customizer.php:1206
+msgid "ourportfolio"
+msgstr ""
+
+#: template-parts/content-page.php:9
+msgid "Page"
+msgstr ""
+
+#: inc/common/agenshark-breadcrumb.php:46
+msgid "Page not Found"
+msgstr ""
+
+#: 404.php:20 inc/kirki-customizer.php:861
+msgid "Page not found"
+msgstr ""
+
+#. Name of the template
+#: page-sidebar.php:3
+msgid "Page Sidebar"
+msgstr ""
+
+#: template-parts/content.php:29 template-parts/content-audio.php:32
+#: template-parts/content-gallery.php:42 template-parts/content-page.php:5
+#: template-parts/content-search.php:29 template-parts/content-image.php:29
+#: template-parts/content-video.php:35
+msgid "Pages:"
+msgstr ""
+
+#: inc/kirki-customizer.php:236 inc/kirki-customizer.php:589
+msgid "Phone Number"
+msgstr ""
+
+#: inc/add_plugin.php:155
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/add_plugin.php:148
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/add_plugin.php:151
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/kirki-customizer.php:1204
+msgid "Portfolio Slug"
+msgstr ""
+
+#: comments.php:101 comments.php:118
+msgid "Post Comment"
+msgstr ""
+
+#: inc/kirki-customizer.php:900
+msgid "Post Order"
+msgstr ""
+
+#: inc/template-functions.php:42
+msgid "Post Tags : "
+msgstr ""
+
+#: inc/kirki-customizer.php:520
+msgid "Preloader Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:169
+msgid "Preloader On/Off"
+msgstr ""
+
+#: single.php:39
+msgid "Prev Post"
+msgstr ""
+
+#: inc/kirki-customizer.php:724
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/kirki-customizer.php:348
+msgid "Requesting A Call:"
+msgstr ""
+
+#: inc/add_plugin.php:147
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:300
+msgid "Search"
+msgstr ""
+
+#: inc/common/agenshark-breadcrumb.php:44
+msgid "Search Results for : "
+msgstr ""
+
+#: search.php:25
+msgid "Search Results For:"
+msgstr ""
+
+#: inc/kirki-customizer.php:276
+msgid "Second Address"
+msgstr ""
+
+#: inc/kirki-customizer.php:296
+msgid "Second Address URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:286
+msgid "Second Address URL Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:487 inc/kirki-customizer.php:761
+#: inc/kirki-customizer.php:778 inc/kirki-customizer.php:903
+msgid "Select an option..."
+msgstr ""
+
+#: inc/kirki-customizer.php:485
+msgid "Select Header Style"
+msgstr ""
+
+#: inc/common/agenshark-widgets.php:20
+msgid "Set Your Blog Widget"
+msgstr ""
+
+#: inc/common/agenshark-breadcrumb.php:38
+#: inc/common/agenshark-breadcrumb.php:48
+msgid "Shop"
+msgstr ""
+
+#: inc/kirki-customizer.php:915
+msgid "Show Related?"
+msgstr ""
+
+#: inc/kirki-customizer.php:62
+msgid "Side Info"
+msgstr ""
+
+#: inc/kirki-customizer.php:539
+msgid "Side Info On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:134
+msgid "Slug Settings"
+msgstr ""
+
+#: inc/add_plugin.php:101
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/kirki-customizer.php:308
+msgid "Sunday - Friday:"
+msgstr ""
+
+#: inc/add_plugin.php:112
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:149
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/add_plugin.php:127
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:122
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:154
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/add_plugin.php:117
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/kirki-customizer.php:627
+msgid "This is a Breadcrumb bg color control."
+msgstr ""
+
+#: inc/kirki-customizer.php:800
+msgid "This is a Footer bg color control."
+msgstr ""
+
+#: inc/add_plugin.php:107
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:102
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:105
+msgid "to post a comment."
+msgstr ""
+
+#: inc/kirki-customizer.php:156
+msgid "Topbar Swicher"
+msgstr ""
+
+#: inc/add_plugin.php:32
+msgid "TP Core "
+msgstr ""
+
+#: inc/kirki-customizer.php:978
+msgid "Tutor Course Curriculum Tab Swicher"
+msgstr ""
+
+#: inc/kirki-customizer.php:965
+msgid "Tutor Course Description Tab Swicher"
+msgstr ""
+
+#: inc/kirki-customizer.php:939
+msgid "Tutor Course Details Author Meta"
+msgstr ""
+
+#: inc/kirki-customizer.php:952
+msgid "Tutor Course Details Payment"
+msgstr ""
+
+#: inc/kirki-customizer.php:1004
+msgid "Tutor Course Instructor Tab Swicher"
+msgstr ""
+
+#: inc/kirki-customizer.php:991
+msgid "Tutor Course Reviews Tab Swicher"
+msgstr ""
+
+#: inc/kirki-customizer.php:110 inc/kirki-customizer.php:141
+msgid "Tutor Course Settings "
+msgstr ""
+
+#: inc/kirki-customizer.php:421
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:467
+msgid "Twitter URL ( Header - 2 ) "
+msgstr ""
+
+#: inc/kirki-customizer.php:126
+msgid "Typography Setting"
+msgstr ""
+
+#: inc/add_plugin.php:100
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/kirki-customizer.php:521
+msgid "Upload Preloader Logo."
+msgstr ""
+
+#: inc/kirki-customizer.php:503
+msgid "Upload Your Logo."
+msgstr ""
+
+#: inc/kirki-customizer.php:775
+msgid "Widget Number"
+msgstr ""
+
+#: inc/kirki-customizer.php:784
+msgid "Widget Number 2"
+msgstr ""
+
+#: inc/kirki-customizer.php:783
+msgid "Widget Number 3"
+msgstr ""
+
+#: inc/kirki-customizer.php:782
+msgid "Widget Number 4"
+msgstr ""
+
+#: inc/add_plugin.php:71
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/add_plugin.php:46
+msgid "WP Classic Editor"
+msgstr ""
+
+#. Author of the theme
+msgid "wprealizer"
+msgstr ""
+
+#: inc/add_plugin.php:81
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: inc/add_plugin.php:76
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: comments.php:105
+msgid "You must be"
+msgstr ""
+
+#: inc/kirki-customizer.php:439
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:838
+msgid "© Agenshark 2023 | All Rights Reserved"
+msgstr ""
+
+#: inc/template-helper.php:395
+msgid "© Agenshark 2024 | All Rights Reserved"
+msgstr ""

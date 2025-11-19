@@ -1,0 +1,24 @@
+[11-Jan-2025 03:18:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/jdihunairac/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/jdihunairac/public_html/wp-content/plugins/hello.php on line 69
+[30-Jan-2025 19:03:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/jdihunairac/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/jdihunairac/public_html/wp-content/plugins/hello.php on line 69
+[20-Feb-2025 02:20:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/jdihunairac/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/jdihunairac/public_html/wp-content/plugins/hello.php on line 69
+[24-Mar-2025 10:11:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/jdihunairac/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/jdihunairac/public_html/wp-content/plugins/hello.php on line 69
+[04-Oct-2025 08:25:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/jdihunairac/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/jdihunairac/public_html/wp-content/plugins/hello.php on line 69
+[15-Nov-2025 03:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/jdihunairac/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/jdihunairac/public_html/wp-content/plugins/hello.php on line 69

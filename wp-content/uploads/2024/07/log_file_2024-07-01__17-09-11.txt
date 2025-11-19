@@ -1,0 +1,103 @@
+
+---Downloaded files---
+The import files for: Startup Agency were successfully downloaded!
+Initial max execution time = 899
+Files info:
+Site URL = https://agenshark.wprealizer.com
+Data file = /home/356009.cloudwaysapps.com/npyppsdugm/public_html/wp-content/themes/agenshark/sample-data/contents-demo.xml
+Widget file = /home/356009.cloudwaysapps.com/npyppsdugm/public_html/wp-content/themes/agenshark/sample-data/widget-settings.json
+Customizer file = /home/356009.cloudwaysapps.com/npyppsdugm/public_html/wp-content/themes/agenshark/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search - Imported
+Futurenet Sidebar Posts - Recent Posts - Imported
+Categories - No Title - Imported
+Tag Cloud - Tags - Imported
+
+Footer 1 : 
+
+Custom HTML - No Title - Imported
+
+Footer 2 : 
+
+Futurenet Footer Posts - Popular Post - Imported
+
+Footer 3 : 
+
+Navigation Menu - Free Links - Imported
+
+Footer 4 : 
+
+Custom HTML - Get in Touch - Imported
+
+footer-2-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - No Title - Imported to Inactive
+
+footer-2-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Company - Imported to Inactive
+
+footer-2-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Support - Imported to Inactive
+
+footer-2-4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Free Links - Imported to Inactive
+
+footer-2-5 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Subscribe Now - Imported to Inactive
+
+footer-3-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - No Title - Imported to Inactive
+
+footer-3-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Located - Imported to Inactive
+
+footer-3-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Opening Hours - Imported to Inactive
+
+footer-3-4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Get in Touch - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
